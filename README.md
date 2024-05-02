@@ -22,9 +22,9 @@ Once the app is running, you can:
 ## Dependencies
 Ensure that you have the following dependencies installed:
 
-- Dependency 1
-- Dependency 2
-- ...
+- JDatePicker
+- JCharts
+  ( there all in the lib folder idk the exact names ) 
 
 ## Support
 If you encounter any issues or have questions, feel free to [open an issue](mzatitembo01@gmail.com).
